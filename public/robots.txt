@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alrehabsatharecovery.com/sitemap.xml
+
+# Alrehabsatharecovery - 24/7 Towing & Vehicle Recovery in Saudi Arabia
